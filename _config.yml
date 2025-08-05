@@ -121,16 +121,16 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:jlseovaz@gmail.com"
+      url: "mailto:jlseovaz@gmail.com"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-        url: "https://facebook.com/Jose L. Seoane"
+      url: "https://facebook.com/Jose L. Seoane"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/jlseoane"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-        url: "https://instagram.com/jose_luis_seoane"
+      url: "https://instagram.com/jose_luis_seoane"
 
 # Site Footer
 footer:
