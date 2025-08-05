@@ -4,7 +4,6 @@ permalink: /sobre-mi/
 layout: single
 author_profile: true
 ---
-![Mi foto](/assets/images/avatar.jpg){: .align-left}
 
 Mi nombre es **Jose L. Seoane**, tengo 59 años y vivo en Tenerife.
 
