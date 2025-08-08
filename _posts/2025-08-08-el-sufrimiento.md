@@ -3,7 +3,7 @@ layout: single
 title: Dolor vs sufrimiento
 tags:
   - ego
-  - reflexión
+  - dolor
   - sufrimiento
 author_profile: true
 sidebar:
