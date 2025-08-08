@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Dolor vs sufrimiento
+title: "Dolor vs sufrimiento"
 tags:
   - ego
   - dolor
@@ -9,7 +9,7 @@ author_profile: true
 sidebar:
   nav: "main"
 date: 2025-08-08
-excerpt: El sufrimiento es el miedo a la muerte
+excerpt: "El sufrimiento es el miedo a la muerte"
 ---
 
 
