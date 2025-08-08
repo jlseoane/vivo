@@ -5,6 +5,9 @@ tags:
   - ego
   - reflexión
   - sufrimiento
+author_profile: true
+sidebar:
+  nav: "main"
 date: 2025-08-08
 excerpt: El sufrimiento es el miedo a la muerte
 ---
