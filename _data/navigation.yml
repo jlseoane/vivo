@@ -1,11 +1,14 @@
 # main links
 main:
-  - title: "Sobre mí"
-    url: /sobre-mi/
+  
   - title: "Artículos"
     url: /articulos/
+  - title: "Guerrero"
+    url: /guerrero/
   - title: "Etiquetas"
     url: /tags/
+  - title: "Sobre mí"
+    url: /sobre-mi/
   # - title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
