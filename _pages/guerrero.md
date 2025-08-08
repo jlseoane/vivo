@@ -2,7 +2,6 @@
 title: "El camino del guerrero"
 permalink: /guerrero/
 layout: single
-classes: wide
 author_profile: true
 ---
 
