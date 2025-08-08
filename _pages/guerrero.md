@@ -1,7 +1,8 @@
 ---
 title: "El camino del guerrero"
 permalink: /guerrero/
-layout: default
+layout: single
+author_profile: true
 ---
 
 <h2>Introducción</h2>
