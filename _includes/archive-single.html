@@ -1,14 +1,27 @@
-﻿{% if post.header.teaser %} {% capture teaser %}{{ post.header.teaser }}{% endcapture %} {% else %} {% assign teaser = site.teaser %} {% endif %} {% if post.id %} {% assign title = post.title | markdownify | remove: "
-" | remove: "
+﻿{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
 
-" %} {% else %} {% assign title = post.title %} {% endif %}
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "\n" | remove: "\r" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
 {% if include.type == "grid" and teaser %}
-
-{% endif %}
-{% if post.link %} {{ title }} Permalink {% else %} {{ title }} {% endif %}
-
-{% include page__meta.html type=include.type %} {% if post.excerpt %}
-{{ post.excerpt | markdownify | strip_html | truncate: 160 }}
-
+  <!-- Aquí podrías añadir código para vista en grid si quieres -->
 {% endif %}
 
+{% if post.link %}
+  <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | relative_url }}">Permalink</a>
+{% else %}
+  <a href="{{ post.url | relative_url }}">{{ title }}</a>
+{% endif %}
+
+{% include page__meta.html type=include.type %}
+
+{% if post.excerpt %}
+  <p>{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>
+{% endif %}
