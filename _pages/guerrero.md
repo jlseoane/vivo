@@ -5,12 +5,18 @@ layout: single
 classes: wide
 author_profile: true
 ---
-Página en construcción. En esta página encontrarás una introducción al camino del guerrero en la tradición tolteca, así como artículos que desarrollan sus principios fundamentales.
 
----
+<h2>Introducción</h2>
+<p>
+Pagina en construcción.
+En esta página encontrarás una introducción al camino del guerrero en la tradición tolteca, así como artículos que desarrollan sus principios fundamentales.
+</p>
 
-{% include base_path %}
-{% assign posts_guerrero = site.posts | where_exp: "post", "post.tags contains 'guerrero'" %}
-{% for post in posts_guerrero %}
-  {% include archive-single.html %}
+<h2>Artículos</h2>
+<ul>
+{% for post in site.posts %}
+  {% if post.tags contains "guerrero" %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a> <small>({{ post.date | date: "%d-%m-%Y" }})</small></li>
+  {% endif %}
 {% endfor %}
+</ul>
