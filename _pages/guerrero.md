@@ -7,7 +7,7 @@ author_profile: true
 
 <h2>Introducción</h2>
 <p>
-> “En el corazón de la antigua sabiduría mesoamericana, el guerrero no es quien empuña un arma, sino quien vence a su propio miedo.”
+“En el corazón de la antigua sabiduría mesoamericana, el guerrero no es quien empuña un arma, sino quien vence a su propio miedo.”
 
 El pueblo y la cultura tolteca tuvo su auge entre los siglos VIII y XII, y se asentó en la zona meridional de México (también conocida como mesoamérica), desde dónde influyó notablemente en la civilización azteca. Fue la matriz espiritual de aquella zona, mucho antes de la colonización española.
 
