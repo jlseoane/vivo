@@ -8,7 +8,7 @@ author_profile: true
 <h2>Introducción</h2>
 <p>
 Pagina en construcción
-> Relatos de poder - Carlos Castaneda.
+
 </p>
 
 <h2>Artículos</h2>
