@@ -1,6 +1,6 @@
 ---
 layout: single
-title: La impecabilidad en tus palabras.
+title: La impecabilidad en tus palabras
 tags:
   - impecabilidad
   - guerrero

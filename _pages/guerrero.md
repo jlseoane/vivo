@@ -29,6 +29,6 @@ Este espacio es una muestra y a la vez una invitación para que recorras  un sen
 
 {% for post in site.posts %}
   {% if post.tags contains "guerrero" %}
-  - [{{ post.title }}]({{ post.url }}) <small>({{ post.date | date: "%d-%m-%Y" }})</small>
+  - [{{ post.title }}]({{ post.url | relative_url }}) <small>({{ post.date | date: "%d-%m-%Y" }})</small>
   {% endif %}
 {% endfor %}
