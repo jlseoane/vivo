@@ -12,7 +12,7 @@ nav: main
 ---
 
 
-> _"La impecabilidad es hacer lo mejor que puedas en lo que fuese”_
+> _"La impecabilidad es hacer lo mejor que puedas en lo que fuese.”_
 > 
 > Carlos Castaneda - Relatos de poder.
 
