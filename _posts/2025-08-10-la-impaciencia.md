@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "La impaciencia"
+title: '"La impaciencia"'
 tags:
   - ansiedad
   - impaciencia
@@ -39,10 +39,10 @@ Hay que salir de esa vorágine. Sé que no es fácil, porque el mundo en el que 
 
 Hay muchas fórmulas útiles para parar la mente;  mindfulness, meditación, respiración, tai-chi. Puedes leer docenas de libros al respecto; pero a mí me funciona lo siguiente:
 
-Deja que las cosas sucedan como y cuando deben suceder; no pretendas que el mundo gire a tu ritmo, porque no lo hará; eres demasiado insignificante para ello. Cuando algo no sucede como tú quieres, para la máquina y espera; si ha de suceder, sucederá.
+Deja que las cosas sucedan cómo y cuando deben suceder; no pretendas que el mundo gire a tu ritmo, porque no lo hará; eres demasiado insignificante para ello. Cuando algo no sucede como tú quieres, para la máquina y espera; si ha de suceder, sucederá.
 
 Busca tus momentos para respirar conscientemente, para sentir como el aire entra y sale de tus pulmones, solo eso; es una práctica que puedes realizar en cualquier lugar, sin que nadie se percate de ello. Si lo haces con conciencia, te llevará de inmediato al aquí y ahora, te ancla en el presente.
 
-Antes de dormir, intenta localizar en tu cuerpo aquellos lugares donde hay dolor, o tensión. Es una bonita forma de decirle a tu cuerpo que te preocupas por él, que lo amas.
+Antes de dormir, intenta localizar en tu cuerpo aquellos lugares donde hay dolor, o tensión. Es una bonita forma de decirle aa tu cuerpo que te preocupas por él, que lo amas.
 
  > **Aprender a esperar es, a veces, el acto más revolucionario que puedes hacer por ti mismo**.
