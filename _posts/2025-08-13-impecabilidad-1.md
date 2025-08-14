@@ -68,6 +68,6 @@ Sócrates concluyó:
 ### Conclusiones
 > _La libertad que un guerrero tiene, es actuar impecable­mente, o bien actuar como un imbécil. La impecabilidad es de verdad el único acto que es libre y, por ello, la verdadera medida del espíritu de un guerrero. 
 
-No seas imbécil, no atentes contra ti. Se impecable con tus palabras, cuando hables con los demás; hazlo también cuando hables contigo. Porque el guerrero sólo tiene un camino que seguir, y en él no tiene cabida la maldad.
+No seas imbécil, no atentes contra ti. Se impecable con tus palabras cuando hables con los demás; hazlo también cuando hables contigo. Porque el guerrero sólo tiene un camino que seguir, y en el no tiene cabida la maldad.
 
 **Cuando eres impecable con tus palabras, eres libre.**
