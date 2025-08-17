@@ -18,7 +18,7 @@ Ante todo, el camino del guerrero no es un sendero de violencia, no hay lucha ex
 
 Usar esas armas con maestría es el objetivo de ese camino. El caminante tendrá que aprender a ser  disciplinado, luchar a diario contra sí mismo, contra sus temores y debilidades, actuar con conciencia, liberarse de ataduras que le limitan. Como puedes intuir, se trata de un trabajo introspectivo, que puede llegar a ser fascinante.
 
-![guerrero-samurai.png](/vivo/assets/images/guerrero-samurai.jpg)
+![El guerrero](/vivo/assets/images/guerrero-samurai.png)
 
 Este espacio es una muestra y a la vez una invitación para que recorras  un sendero que conduce a la maestría personal. **El camino del guerrero no es para todos, pero todo aquel que lo elige, se transforma.**
 
