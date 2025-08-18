@@ -1,6 +1,6 @@
 ---
 layout: single
-title: '"La impaciencia"'
+title: "La impaciencia"
 tags:
   - ansiedad
   - impaciencia
