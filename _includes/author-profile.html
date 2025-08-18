@@ -17,15 +17,10 @@
     </h3>
     {% if author.bio %}
       <div class="author__bio p-note" itemprop="description">
-      {{ author.bio | markdownify }}
-<!-- Botón de suscripción -->
-      <div class="subscribe-button" style="margin-top:10px;">
-        <a href="https://follow.it/tu-feed" target="_blank" style="display:inline-block; background:#0073e6; color:#fff; padding:8px 14px; border-radius:6px; text-decoration:none; font-weight:bold;">
-          Suscribirse para recibir nuevos artículos
-        </a>
+        {{ author.bio | markdownify }}
       </div>
     {% endif %}
- 
+  </div>
 
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">{{ site.data.ui-text[site.locale].follow_label | remove: ":" | default: "Follow" }}</button>
