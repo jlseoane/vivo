@@ -2,7 +2,7 @@
 title: "Artículos"
 permalink: /articulos/
 layout: home
-author_profile: archive
+author_profile: true
 entries_layout: list
 ---
 
@@ -10,9 +10,3 @@ entries_layout: list
 También podrás explorar [el camino del guerrero](/vivo/guerrero/), donde comparto enseñanzas y reflexiones relacionadas con una antigua cultura mesoamericana.
 
 Usa los menús superiores para navegar cómodamente entre las secciones.
-
-{% assign articulos = site.posts | where_exp: "post", "post.tags contains 'guerrero' == false" %}
-
-{% for post in articulos %}
-  {% include archive-single.html %}
-{% endfor %}
