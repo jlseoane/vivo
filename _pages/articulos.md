@@ -10,9 +10,10 @@ entries_layout: list
 También podrás explorar [el camino del guerrero](/vivo/guerrero/), donde comparto enseñanzas y reflexiones relacionadas con una antigua cultura mesoamericana.
 
 Usa los menús superiores para navegar cómodamente entre las secciones.
+---
 
-{% assign articulos = site.posts | where_exp: "post", "post.tags contains 'guerrero' == false" %}
-
-{% for post in articulos %}
-  {% include archive-single.html %}
+{% for post in site.posts %}
+  {% unless post.tags contains "guerrero" %}
+    {% include archive-single.html %}
+  {% endunless %}
 {% endfor %}
