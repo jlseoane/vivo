@@ -2,6 +2,8 @@
 layout: single
 title: Realidades subjetivas
 tags:
+  - ego
+  - razonamiento
 date: 2025-08-23
 excerpt: Mi realidad no es tu realidad, nuestras realidades no son reales.
 autor_profile: "true"
