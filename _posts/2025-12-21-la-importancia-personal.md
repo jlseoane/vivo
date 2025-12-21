@@ -24,6 +24,6 @@ Un símil podría ser la rueda de la jaula de un hamster, que éste hace girar s
 
 Y cuando no conseguimos pararla (lo que suele suceder habitualmente), esos pensamientos se van consolidando, convirtiéndose en una especie de "roca inamovible" en nuestra psique. Pasan entonces a formar parte de nuestra realidad. Aquél comentario sobre tí, en el que alguien decía "es que no te expresas bien", se solidifica y se convierte en tu realidad, hasta el punto que evitas a toda costa actos tales como hablar en público, y tiendes a aislarte.
 
-**Desprenderse de la importancia personal implica seguir el camino del guerrero**. Éste, sabe de la existencia de este juego del ego, y por ello se mantiene alerta para detectar cuando la importancia personal pretende colarse; al verla venir la desecha, y deja que el suceso o acto transcurra sin que le afecte, ahorrando así su energía. ¡Es así como el guerrero actúa con impecabilidad!.
+**Desprenderse de la importancia personal implica seguir el camino del guerrero**. Éste, sabe de la existencia de este juego del ego, y por ello se mantiene alerta para detectar cuando la importancia personal pretende colarse; al verla venir la desecha, y deja que el suceso o acto transcurra sin que le afecte, ahorrando su energía. ¡Es así como el guerrero actúa con impecabilidad!.
 
 Por eso la importancia personal es realmente nuestro enemigo, al que hay que combatir para impedir que se asiente en nosotros y tergiverse nuestra realidad. Tal y como dice Carlos Castaneda: "***sin importancia personal somos invulnerables***."
