@@ -18,7 +18,7 @@ Cuando nos sentimos infravalorados, menospreciados, cuando creemos que no somos 
 
 El hecho de que la expresión o acto haya sucedido realmente o no carece de importancia, lo relevante es que nuestro ego la registró así, como un elemento negativo. A veces ni siquiera sucedió como nosotros creemos; tal vez un comentario oído parcialmente o una imagen fugaz es suficiente para que se dispare la alerta y nuestra mente comience a elucubrar a toda máquina.
 
-Y es que la importancia personal consiste en "rumiar" aquello que nos hizo sentir menos, argumentar en silencio una y otra vez, buscando una revancha mental que nunca llega. Creemos que de esa forma nos recuperamos nuestra autoestima, pero es un error; la importancia personal no cura la herida, al contrario, la perpetúa; una y otra vez vuelve a repasar el suceso y con ello lo mantiene vivo.
+Y es que la importancia personal consiste en "rumiar" aquello que nos hizo sentir menos, argumentar en silencio una y otra vez, buscando una revancha mental que nunca llega. Creemos que de esa forma recuperamos nuestra autoestima, pero es un error; la importancia personal no cura la herida, al contrario, la perpetúa; una y otra vez vuelve a repasar el suceso y con ello lo mantiene vivo.
 
 Un símil podría ser la rueda de la jaula de un hamster, que éste hace girar sin parar, una y otra vez. La importancia personal revive el suceso también una y otra vez, alimentándose en cada vuelta, afirmándose en el sentimiento de ofensa. Y ese genera un consumo de energía enorme.
 
