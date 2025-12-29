@@ -6,7 +6,7 @@ tags:
   - consciencia
   - congruencia 
 date: 2025-12-29
-excerpt: 
+excerpt: Hacemos lo que podemos cuando podemos
 autor_profile: "true"
 sidebar:
 nav: main
