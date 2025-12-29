@@ -3,6 +3,7 @@ layout: single
 title: La importancia personal
 tags:
   - ego
+  - guerrero
 date: 2025-12-21
 excerpt: La importancia personal, consumidora de energía.
 autor_profile: "true"
